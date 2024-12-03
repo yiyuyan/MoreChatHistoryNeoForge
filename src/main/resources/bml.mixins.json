@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.mchf.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "BetterMessageLib.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ChatComponentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
